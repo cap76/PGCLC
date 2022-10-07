@@ -1,0 +1,1 @@
+This folder contains scripts necessaary for projecting cells onto the marmoset 3D atlas and makes use of the Spatial Transcriptomics toolbox (available from https://github.com/Boroviak-Lab/SpatialModelling)
